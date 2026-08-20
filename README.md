@@ -19,7 +19,7 @@ Upon successful completion of the course, you shall be able to:
    strategic performance issues.
 1. Design and justify management control mechanisms for decentralized
    organizations by integrating transfer pricing, budgeting,
-   performance evaluation, and incentive compensation 1. concepts
+   performance evaluation, and incentive compensation concepts
    while considering goal congruence and dysfunctional behavioral
    effects.
 1. Assess managerial decisions under conditions of uncertainty and
