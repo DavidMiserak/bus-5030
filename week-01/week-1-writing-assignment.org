@@ -1,0 +1,87 @@
+#+TITLE: Week 1 Project Assignment
+
+* Writing Assignment Overview: Upstream, Midstream, and Downstream Costs in the Oil and Gas Industry
+
+The oil and gas industry is commonly divided into three major
+operational segments: upstream, midstream, and downstream. Each
+segment performs a distinct economic function and has a different cost
+structure, risk profile, capital requirement, and exposure to market
+conditions. Understanding these differences is essential for managers,
+investors, policymakers, and energy professionals responsible for
+evaluating projects and making strategic decisions.
+
+* Task: Introduce, Analyze, Explain and Evaluate
+
+For this assignment, write a 750–1,000-word analytical essay in APA
+7th edition examining the major costs associated with upstream,
+midstream, and downstream oil and gas operations. Your analysis should
+move beyond simply defining each segment. Evaluate why costs differ
+across the three segments, what factors drive those costs, and how
+changes in costs influence profitability and strategic
+decision-making.
+
+* Criteria: Required Components
+1) Introduction
+   + Briefly introduce the oil and gas value chain and explain the
+     relationship among upstream, midstream, and downstream
+     activities. Establish a clear thesis statement identifying the
+     primary argument of your essay regarding differences in cost
+     structures and their strategic importance.
+
+2) Upstream Costs
+   + Analyze 1-2 major costs associated with the exploration and
+     production of oil and natural gas. Your discussion should
+     consider costs such as:
+     - Geological and geophysical exploration
+     - Lease acquisition and mineral rights
+     - Drilling and well completion
+     - Labor, equipment, and oilfield services
+     - Production and lifting costs
+     - Water management and disposal
+     - Well maintenance and workovers
+     - Environmental compliance
+     - Plugging, abandonment, and site restoration
+
+3) Midstream Costs
+   + Evaluate the 1-2 costs associated with transporting, gathering, processing, storing, and distributing oil and natural gas. Consider:
+     - Pipeline construction
+     - Gathering systems
+     - Compressor and pumping stations
+     - Natural gas processing
+     - Storage facilities
+     - Transportation and terminal infrastructure
+     - Pipeline integrity and maintenance
+     - Energy consumption
+     - Regulatory and environmental compliance
+
+Analyze why midstream operations often involve large initial capital
+investments but relatively predictable operating costs once
+infrastructure is in service. Discuss how throughput volume,
+transportation contracts, utilization rates, distance, and regulatory
+requirements influence the economics of midstream assets.
+
+4. Downstream Costs
+   + Analyze 1 or 2 principal costs involved in refining crude oil and
+     marketing petroleum products. Your discussion may include:
+     - Crude oil feedstock
+     - Refinery operations
+     - Energy and utilities
+     - Labor
+     - Maintenance and turnaround expenses
+     - Transportation and product distribution
+     - Environmental compliance
+     - Product blending
+     - Storage
+     - Retail and marketing expenses
+
+5. Conclusion
+
+Summarize the most significant differences among upstream, midstream,
+and downstream costs. Your conclusion should explain why understanding
+these cost structures is important for capital allocation,
+profitability analysis, strategic planning, and risk management in the
+energy industry.
+
+* Due Date
+
+Assignment due: Sunday, August 30th, 2026 at 11:59 PM EST.
