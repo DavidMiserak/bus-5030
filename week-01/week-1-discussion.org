@@ -1,0 +1,174 @@
+#+TITLE: Week 1 Discussion: Corporate Governance
+
+* Week 1 Discussion Prompt
+
+/Corporate governance/ refers to the systems, policies, processes, and
+relationships used to direct and oversee an organization. It
+establishes how authority and responsibility are distributed among the
+board of directors, executives, managers, shareholders, and other
+stakeholders. Effective corporate governance promotes accountability,
+transparency, ethical decision-making, and responsible use of
+organizational resources. The board of directors plays an important
+oversight role by monitoring executive performance, assessing
+organizational risks, establishing expectations for ethical conduct,
+and ensuring that management's decisions support the organization's
+strategic objectives and stakeholder interests.
+
+From a /anagerial accounting/ perspective, corporate governance is
+closely connected to internal controls, budgeting, performance
+measurement, responsibility accounting, and incentive
+systems. Management accountants provide financial and nonfinancial
+information that allows leaders to evaluate performance, identify
+risks, monitor the use of resources, and hold managers accountable for
+results. Well-designed control systems can promote goal congruence by
+encouraging managers to make decisions that support both their areas
+of responsibility and the organization's broader objectives. However,
+poorly designed performance targets or incentives can encourage
+excessive risk-taking, manipulation of results, or an unhealthy
+emphasis on short-term financial outcomes. Effective corporate
+governance therefore combines reliable accounting information and
+appropriate controls with ethical leadership, independent oversight,
+and long-term strategic thinking.
+
+** Purpose: To Analyze, Evaluate, Access and Develop
+
+By the end of this discussion, you will be able to:
+
+- Analyze the fundamental principles of corporate governance and
+  explain the roles and responsibilities of boards of directors,
+  executive management, shareholders, management accountants, and
+  other key stakeholders.
+- Evaluate corporate governance structures and practices to determine
+  their effectiveness in promoting accountability, transparency,
+  ethical behavior, and alignment with organizational objectives.
+- Assess the relationship between managerial accounting and corporate
+  governance, including how budgeting, responsibility accounting,
+  performance measurement, and management control systems support
+  organizational oversight.
+- Analyze internal control and risk-management systems to identify
+  governance weaknesses, financial and operational risks, and
+  opportunities for strengthening organizational accountability.
+- Evaluate the behavioral and ethical consequences of performance
+  measures and incentive systems, including their potential to promote
+  goal congruence or encourage dysfunctional managerial behavior and
+  short-term decision-making.
+- Develop and defend governance recommendations using financial and
+  nonfinancial information, ethical reasoning, and professional
+  judgment to improve organizational performance, stakeholder
+  accountability, and long-term value creation.
+
+** Discussion Prompt
+
+*** Scenario
+
+A publicly traded company has experienced three consecutive years of
+declining profitability. In response, the board of directors approves
+a new executive compensation system that ties substantial bonuses to
+annual operating income, cost reductions, and return on investment
+(ROI). Senior managers subsequently introduce aggressive departmental
+budgets and instruct division managers to reduce discretionary
+expenditures. Within one year, reported operating income and ROI
+improve significantly, executive bonuses increase, and the company's
+stock price rises.
+
+However, an internal review reveals that several managers postponed
+equipment maintenance, reduced employee training, delayed necessary
+research and development expenditures, and pressured accounting
+personnel to accelerate revenue recognition where
+permissible. Customer complaints and employee turnover have also
+increased. Although senior executives argue that managers acted within
+company policies and applicable accounting rules, several board
+members question whether the organization's management control system
+has encouraged short-term financial performance at the expense of
+long-term value creation and effective corporate governance.
+
+*** Discussion Prompt
+
+Assume you are advising the company's board of directors. Evaluate the
+effectiveness of the company's corporate governance and management
+control systems. To what extent should the board, senior management,
+management accountants, and individual division managers be held
+accountable for the outcomes described in the scenario?
+
+In developing your response, address the following issues:
+
+1) Analyze how the company's performance measures, budgeting
+   practices, and incentive compensation system may have influenced
+   managerial behavior. Identify at least one example of goal
+   congruence and one potential example of dysfunctional behavior.
+2) Evaluate whether compliance with accounting standards and company
+   policies is sufficient to demonstrate effective corporate
+   governance. Explain the role that ethics, professional judgment,
+   internal controls, and managerial accountability should play.
+3) Recommend two financial and two nonfinancial performance measures
+   that the board could incorporate into the management control
+   system. Explain how each measure could encourage managers to
+   balance short-term performance with long-term organizational
+   objectives.
+4) Consider the tension between managerial autonomy and organizational
+   control. How much discretion should managers have when attempting
+   to achieve performance targets, and when should the board or senior
+   leadership intervene?
+5) Conclude by answering this question: Can a management control
+   system be financially successful while simultaneously representing
+   a corporate governance failure? Defend your position using
+   managerial accounting concepts and evidence from the scenario.
+
+** Criteria: High-level Submissions
+
+A high-quality graduate-level discussion post should demonstrate
+critical thinking, analytical depth, professional writing, and
+meaningful engagement with course concepts. The goal is not merely to
+summarize information, and or agree with a peer, but to contribute
+original insight, apply theory to practice, and stimulate scholarly
+discussion.
+
+** Initial Post
+
+Directly answer the prompt (e.g. respond specifically, address
+underlying business/accounting implications, avoid vague or overly
+general commentary.).  Demonstrate critical thinking (e.g., compare
+competing perspectives, analyze implications and tradeoffs, discuss
+limitations, risk, and ethical considerations.).  Integrate Course
+Concepts and Professional Practice (e.g., reference accounting
+analytics, governance, or strategy, apply theory to business
+environments.).  Use evidence and scholarly support (e.g., incorporate
+industry examples, reference course readings and research/professional
+standards, use data, citations, or authoritative frameworks.).
+
+** Peer Responses
+
+Substantively Engages with a Classmate's Ideas (e.g., engage in the
+discussion meaningfully. identify key strengths or assumptions,
+reference specific arguments.).  Demonstrate critical thinking (e.g.,
+challenge assumptions respectfully, apply additional course
+concepts.).  Add new value to the discussion (e.g., expand the
+analytical scope, connect ideas to professional experiences, reference
+industry practices.).  Encourage Continued Dialogue (e.g., Invite
+deeper analysis, ask probing questions, encourage application to
+broader business context.).
+
+** Due Dates
+
+- Initial post due: Thursday at 11:59 PM EST.
+- Peer responses (1) due: Sunday at 11:59 PM EST.
+
+* Outline
+
+1. performance measures, budgeting practices, and incentive compensation system
+   - goal congruence
+   - dysfunctional behavior
+2. Corporate Governance and Accounting Standards
+   - ethics
+   - professional judgment
+   - internal controls
+   - managerial accountability
+3. four measures (two financial, two non-financial)
+   - financial measures: revenue, profit, other monetary-based metrics
+   - non- financial measures: customer satisfaction, employee engagement, product quality, innovation capacity, brand strength, operational efficiency, and environmental sustainability
+4. Managerial autonomy vs organizational control
+   - discretion
+   - intervention
+5. Management control system: financially successful vs corporate governance failure
+   - evidence from the scenario
+   - managerial accounting concepts
