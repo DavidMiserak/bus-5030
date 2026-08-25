@@ -1,5 +1,15 @@
 #+TITLE: Chapter 1 Notes
 
+* Learning Objectives
+
++ LO 1-1 :: Distinguish between managerial and financial accounting.
++ LO 1-2 :: Identify the cost of manufacturing a product.
++ LO 1-3 :: Show how manufacturing product costs affect financial statements.
++ LO 1-4 :: Compare the treatment of upstream, midstream, and downstream costs in manufacturing, service, and merchandising companies.
++ LO 1-5 :: Show how just-in-time inventory can increase profitability.
++ LO 1-6 :: Understand the principles of the value chain and strategic cost management.
++ LO 1-7 :: Identify the key components of corporate governance.
+
 * Terms
 + Financial Accounting :: Branch of accounting focused on the business
   information needs of external users (creditors, investors,
@@ -350,3 +360,273 @@ Tuscan Manufacturing Company makes a unique headset for use with
 mobile phones. During Year 1, Tuscan experienced the following
 accounting events. Other than the adjusting entries for depreciation,
 assume that all transactions are cash transactions.
+
+** Balance Sheet & Income Statement
+
+|---+-----------+--------------------------------------------+---------+-----------+--------+--------+----------+-----------+---+---------+---------+------------|
+|   | Event No. | Event                                      |    Cash | Inventory |  BV OF |  BV ME | C. Stock | Ret. Earn |   | Revenue | Expense | Net Income |
+|---+-----------+--------------------------------------------+---------+-----------+--------+--------+----------+-----------+---+---------+---------+------------|
+| # |         1 | Issue Common Stock                         |  850000 |         0 |      0 |        |   850000 |         0 |   |       0 |       0 |          0 |
+| # |         2 | Headset R&D                                |  -50000 |         0 |      0 |        |        0 |    -50000 |   |       0 |  -50000 |     -50000 |
+| # |         3 | Materials                                  | -140000 |    140000 |      0 |        |        0 |         0 |   |       0 |       0 |          0 |
+| # |         4 | Admin Salaries                             |  -82200 |         0 |      0 |        |        0 |    -82200 |   |       0 |  -82200 |     -82200 |
+| # |         5 | Production Worker Salaries                 | -224000 |    224000 |      0 |        |        0 |         0 |   |       0 |       0 |          0 |
+| # |         6 | Office Furniture (OF)                      |  -48000 |         0 |  48000 |        |        0 |         0 |   |       0 |       0 |          0 |
+| # |         7 | Furniture Depreciation                     |       0 |         0 | -10000 |        |        0 |    -10000 |   |       0 |  -10000 |     -10000 |
+| # |         8 | Manufacturing Equipment (ME)               |  -65000 |         0 |      0 |  65000 |        0 |         0 |   |       0 |       0 |          0 |
+| # |         9 | ME Depreciation                            |       0 |     20000 |      0 | -20000 |        0 |         0 |   |       0 |       0 |          0 |
+| # |        10 | Rent + Utilities                           | -136000 |    136000 |      0 |        |        0 |         0 |   |       0 |       0 |          0 |
+| # |        11 | Inventory Holding Expense                  |  -41000 |         0 |      0 |        |        0 |    -41000 |   |       0 |  -41000 |     -41000 |
+| # |        12 | 18,400/20,000 headsets ($38) sold          |  699200 |         0 |      0 |        |        0 |    699200 |   |  699200 |       0 |     699200 |
+| # |        13 | Compute avg prod cost & cost of goods sold |       0 |   -478400 |      0 |        |        0 |   -478400 |   |       0 | -478400 |    -478400 |
+|---+-----------+--------------------------------------------+---------+-----------+--------+--------+----------+-----------+---+---------+---------+------------|
+| # |    Totals |                                            |  763000 |     41600 |  38000 |  45000 |   850000 |     37600 |   |  699200 | -661600 |      37600 |
+|---+-----------+--------------------------------------------+---------+-----------+--------+--------+----------+-----------+---+---------+---------+------------|
+#+TBLFM: $9=$4+$5+$6+$7-$8::$13=$11+$12::@15$4=vsum(@2..@-1)::@15$5=vsum(@2..@-1)::@15$6=vsum(@2..@-1)::@15$7=vsum(@2..@-1)::@15$8=vsum(@2..@-1)::@15$11=vsum(@2..@-1)::@15$12=vsum(@2..@-1)
+
+** GAAP-based income statement
+
+|---+---------------------------+---------|
+| # | Sales revenue             |  699200 |
+| # | Cost of goods sold        | -478400 |
+|---+---------------------------+---------|
+|   | Gross margin              |  220800 |
+|---+---------------------------+---------|
+|   | R&D expenses              |  -50000 |
+|   | Sales/Admin Salaries      |  -82200 |
+|   | Admin deprecation expense |  -10000 |
+|   | Inventory holding expense |  -41000 |
+|---+---------------------------+---------|
+| # | Net Income                |   37600 |
+|---+---------------------------+---------|
+#+TBLFM: @1$3=18400*38::@2$3=18400*-26::@3$3=vsum(@-2+@-1)::@8$3=vsum(@3..@-1)
+
+** Product Costs vs. Upstream/Downstream Costs
+
+Product costs are only concerned with the midstream.
+
+** JIT vs. Stored Inventory
+
+The JIT costs would be $1 more per unit ($27-$26).  They would need to
+produce 41,000 units to exceed the current costs.  The warehouse
+supervisor would not be needed if there was no warehouse.
+
+* Questsions
+
+1) What are some differences between financial and managerial
+   accounting?
+
+   + Financial accounting focuses on providing information to external
+     users, such as investors and creditors, and is governed by
+     standardized rules and regulations (e.g., GAAP or IFRS). It
+     emphasizes historical data and the overall financial performance
+     of the company. Managerial accounting, on the other hand, is
+     aimed at internal users, such as managers, and focuses on
+     providing relevant information for decision-making, planning, and
+     control. It is more flexible, future-oriented, and may include
+     non-financial data.
+
+2) What does the value-added principle mean as it applies to
+   managerial accounting information? Give an example of value-added
+   information that may be included in managerial accounting reports
+   but is not shown in publicly reported financial statements.
+
+   + Value-added principle in managerial accounting refers to the
+     concept of providing information that enhances decision-making
+     and contributes to the overall value of the organization.  This
+     information is often specific to internal operations and may not
+     be relevant or required for external reporting.  An example of
+     value-added information could be detailed cost analysis of
+     individual products or services, which helps managers identify
+     areas for cost reduction or process improvement.  This type of
+     information is typically not included in publicly reported
+     financial statements, which focus on aggregated financial
+     performance.
+
+3) What type of financial reporting describes the practice of tracking
+   and reporting on environmental costs, investments in sustainable
+   practices, and the financial implications of environmental
+   regulations? (Appendix)
+
+   + Environmental accounting or sustainability accounting describes
+     the practice of tracking and reporting on environmental costs,
+     investments in sustainable practices, and the financial
+     implications of environmental regulations.  This type of
+     reporting helps organizations assess their environmental impact,
+     comply with regulations, and make informed decisions regarding
+     sustainability initiatives.
+
+4) How does product costing used in financial accounting differ from
+   product costing used in managerial accounting?
+
+   + Financial accounting is only concerned with the midstream costs
+     (product costs) and how they affect the financial statements.
+     Managerial accounting is concerned with all costs (upstream,
+     midstream, and downstream) and how they affect the business.
+
+5) What does the statement "costs can be assets or expenses" mean?
+
+   + The purchase of an asset is a cost that is capitalized on the
+     balance sheet and expensed over time through depreciation or
+     amortization.  An expense is a cost that is immediately
+     recognized on the income statement in the period it is incurred.
+     The classification of a cost as an asset or expense depends on
+     its nature and the accounting principles applied.
+
+6) Why are the salaries of production workers accumulated in an
+   inventory account instead of being expensed on the income
+   statement?
+
+   + GAAP based accounting requires that product costs, including the
+     salaries of production workers, be accumulated in an inventory
+     account on the balance sheet until the product is sold.  This is
+     because these costs are directly associated with the production
+     of goods and are considered part of the cost of inventory.  Once
+     the product is sold, these costs are then expensed on the income
+     statement as part of the cost of goods sold.
+
+7) How do product costs affect the financial statements? How does the
+   classification of product cost (as an asset vs. an expense) affect
+   net income?
+
+   + Product costs affect the financial statements by being recorded
+     as assets in the inventory account on the balance sheet until the
+     product is sold.  When the product is sold, these costs are
+     transferred to the income statement as cost of goods sold, which
+     reduces net income.  The classification of product costs as
+     assets allows for the deferral of expenses until the related
+     revenue is recognized, which can lead to higher net income in the
+     period when the costs are incurred but not yet expensed.
+
+8) What is an indirect cost? Provide examples of product costs that
+   would be classified as indirect.
+
+   + An indirect cost is a cost that cannot be easily traced to a
+     specific product or service in a cost-effective manner.  Examples
+     of product costs that would be classified as indirect include
+     manufacturing overhead costs such as utilities, rent for the
+     production facility, depreciation on manufacturing equipment, and
+     salaries of production supervisors.
+
+9) How does a product cost differ from a selling, general, and
+   administrative cost? Give examples of each.
+
+   + Product costs are costs incurred to create a product and include
+     direct materials, direct labor, and manufacturing overhead.
+     Examples of product costs include the cost of raw materials used
+     in production, wages paid to assembly line workers, and factory
+     rent.
+   + Selling, general, and administrative (SG&A) costs are period
+     costs that are not directly tied to the production of goods.
+     Examples of SG&A costs include marketing expenses, office
+     salaries, and administrative office rent.
+
+10) Why is cost classification important to managers?
+
+    + Managers use cost classification to make informed decisions
+      about pricing, budgeting, and resource allocation.  By
+      understanding the different types of costs (fixed, variable,
+      direct, indirect, product, period), managers can analyze cost
+      behavior, identify areas for cost control, and evaluate the
+      profitability of products or services.  This information is
+      crucial for strategic planning and operational efficiency.
+
+11) What is cost allocation? Give an example of a cost that needs to
+    be allocated.
+
+    + Cost allocation is the process of assigning indirect costs to
+      different cost objects (such as products, departments, or
+      projects) based on a systematic method.  An example of a cost
+      that needs to be allocated is the rent for a manufacturing
+      facility that houses multiple production lines.  The rent would
+      be allocated to each production line based on factors such as
+      square footage occupied or machine hours used.
+
+12) How has the Institute of Management Accountants (IMA) responded to the
+    need for high standards of ethical conduct in the accounting
+    profession?
+
+    + The Institute of Management Accountants (IMA) has responded to
+      the need for high standards of ethical conduct in the accounting
+      profession by issuing the Statement of Ethical Professional
+      Practice.  This statement provides guidance to accountants on
+      how to handle ethical dilemmas and conflicts of interest,
+      emphasizing principles such as honesty, integrity, objectivity,
+      confidentiality, and professional competence.  The IMA also
+      offers resources, training, and support to help accountants
+      adhere to these ethical standards in their professional
+      practice.
+
+13) What are some of the common ethical conflicts that accountants
+    encounter?
+
+    + Accountants may encounter ethical conflicts such as pressure to
+      manipulate financial results, conflicts of interest between
+      personal gain and professional responsibilities, confidentiality
+      breaches, and the temptation to overlook or misrepresent
+      information.  Other common ethical conflicts include issues
+      related to fraud, insider trading, and the misallocation of
+      resources.  Accountants must navigate these conflicts while
+      adhering to professional standards and maintaining their
+      integrity.
+
+14) What costs should be considered in determining the sales price of
+    a product?
+
+    + All costs that are directly associated with producing and
+      selling the product should be considered in determining the
+      sales price.  This includes direct materials, direct labor,
+      manufacturing overhead (product costs), as well as selling,
+      general, and administrative expenses (period costs).
+      Additionally, managers may consider desired profit margins,
+      market conditions, competitor pricing, and customer value
+      perception when setting the sales price.
+
+15) What is a just-in-time (JIT) inventory system? Name some inventory
+    costs that can be eliminated or reduced by its use.
+
+    + Just-in-time (JIT) inventory system is a management strategy
+      that aims to increase efficiency and reduce waste by receiving
+      goods only as they are needed in the production process, thereby
+      minimizing inventory levels.  Some inventory costs that can be
+      eliminated or reduced by its use include storage costs,
+      insurance costs, obsolescence costs, and capital costs
+      associated with holding excess inventory.
+
+16) What does the term benchmarking mean? Name some reengineering
+    practices. (LO 1-6)
+
+    + Benchmarking is the process of comparing a company's processes,
+      performance metrics, and practices to those of industry leaders
+      or best-in-class organizations to identify areas for improvement
+      and implement best practices.  Some reengineering practices
+      include process redesign, workflow optimization, automation of
+      repetitive tasks, and the implementation of new technologies to
+      enhance efficiency and effectiveness.
+
+17) What does the term activity-based management mean? (LO 1-6)
+
+    + Activity-based management (ABM) is a management approach that
+      focuses on analyzing and managing activities within an
+      organization to improve customer value and profitability.  It
+      involves identifying the activities that drive costs,
+      understanding their relationship to products or services, and
+      making informed decisions to optimize resource allocation,
+      reduce waste, and enhance overall performance.
+
+18) What is a value chain? (LO 1-6)
+
+    + Linked sequence of activities that create direct value for customers.
+
+19) What do the terms value-added activity and non-value-added
+    activity mean? Provide an example of each type of activity. (LO 1-6)
+
+    + A value-added activity is an activity that increases the worth
+      of a product or service to customers, while a non-value-added
+      activity does not contribute to customer value and may be
+      considered wasteful.
+      - Example of a value-added activity: Assembling a product that
+        meets customer specifications.
+      - Example of a non-value-added activity: Excessive paperwork or
+        redundant approval processes that do not enhance the product
+        or service.
