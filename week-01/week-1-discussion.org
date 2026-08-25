@@ -155,20 +155,153 @@ broader business context.).
 
 * Outline
 
-1. performance measures, budgeting practices, and incentive compensation system
-   - goal congruence
-   - dysfunctional behavior
-2. Corporate Governance and Accounting Standards
-   - ethics
-   - professional judgment
-   - internal controls
-   - managerial accountability
-3. four measures (two financial, two non-financial)
-   - financial measures: revenue, profit, other monetary-based metrics
-   - non- financial measures: customer satisfaction, employee engagement, product quality, innovation capacity, brand strength, operational efficiency, and environmental sustainability
-4. Managerial autonomy vs organizational control
-   - discretion
-   - intervention
-5. Management control system: financially successful vs corporate governance failure
-   - evidence from the scenario
-   - managerial accounting concepts
+1) performance measures, budgeting practices, and incentive compensation system
+   + three levers and how they interact ::
+     - performance measures :: operating income, cost reductions, ROI
+       -- measured annually (single-period window) -- rewards this
+       year's number regardless of how it was achieved.
+     - budgeting practices :: "aggressive departmental budgets" plus a
+       blanket instruction to "reduce discretionary expenditures,"
+       with no guidance distinguishing genuine waste from value-added
+       investment.
+     - incentive compensation :: substantial bonuses tied directly to
+       the performance measures above, giving managers a personal
+       financial stake in hitting this year's number.
+     - interaction :: the annual window (1) + an undifferentiated
+       cut-everything mandate (2) + real money attached (3) together
+       create both the opportunity and the motive to reach for
+       whichever lever is easiest -- for some managers that was real
+       efficiency (goal congruence, below); for others it was
+       borrowing value from a future period (dysfunction, below).
+   + goal congruence :: scenario says "several" managers, not all,
+     resorted to harmful cuts -- implies other managers hit budget/ROI
+     targets without touching maintenance, training, or R&D. Incentive
+     worked as designed: self-interest (bonus) aligned with
+     organizational interest (real cost discipline).
+     - test for "genuine waste" vs. valuable discretionary investment:
+       a cut is genuine waste if it eliminates a non-value-added
+       activity; it's dysfunctional if it eliminates a value-added
+       activity (LO 1-6 / discussion Q19 terms). Maintenance,
+       training, and R&D are all value-added -- consistent with why
+       cutting them was dysfunctional.
+     - limitation: the manager making the cut is the same person whose
+       bonus depends on it looking like waste-elimination, so
+       self-labeling isn't reliable -- the test only works as a
+       safeguard with independent verification (internal audit / board
+       oversight). Bridges directly into section 2 (internal controls,
+       managerial accountability).
+   + dysfunctional behavior :: accelerated revenue recognition "where
+     permissible" -- legal and GAAP-compliant (not fraud; scenario
+     explicitly frames it as permissible), but borrows revenue from a
+     future period to inflate the current period's ROI/operating
+     income. Manufactures the bonus metric rather than creating real
+     value.
+2) Corporate Governance and Accounting Standards
+   + thesis :: compliance with GAAP/company policy is not sufficient
+     to demonstrate effective governance. Executives can argue
+     managers "acted within company policies and applicable accounting
+     rules," but that only addresses legality -- not whether the
+     control system actually protected long-term value.
+   + fraud triangle (diagnostic lens, not a claim of actual fraud) ::
+     pressure (bonus tied to ROI/operating income), opportunity
+     (undifferentiated budget-cutting mandate + accounting personnel
+     reporting to the managers pressuring them), rationalization
+     ("permissible" per GAAP). All three conditions are present even though
+     nothing crossed into illegal territory -- governance failure doesn't
+     require actual fraud to exist.
+   + internal controls :: management override of controls -- senior
+     managers pressuring accounting personnel to accelerate revenue
+     recognition is a textbook management-override risk (COSO), a
+     sharper fit than separation of duties.
+   + ethics :: direct conflict named in the IMA Statement of Ethical
+     Professional Practice -- "pressure to manipulate financial results"
+     (see ch01-notes.org Q13).
+   + professional judgment :: GAAP's flexibility (e.g., when a
+     performance obligation is satisfied) exists to be filled with
+     objective judgment, not pressure. When judgment is exercised
+     under pressure instead of independently, the same flexibility
+     that allows reasonable estimates instead allows the most
+     favorable-but-least-faithful choice.
+   + managerial accountability :: not either/or between system and
+     individuals -- "several," not "all," managers found a legitimate
+     path under the same system, proving the system didn't force the
+     harmful choice. Accountability apportioned accordingly:
+     - board :: designed a reasonable incentive (ROI/operating
+       income/cost reduction) but on too short a timeline
+       (single-year), placing the focus on short-term gains --
+       systemic design flaw (see section 3's multi-year ROI fix).
+     - senior management :: set the goal but not the guardrails -- no
+       business analysis or guidance distinguishing genuine waste from
+       value-added investment before mandating "reduce discretionary
+       expenditures" -- systemic design flaw (see section 1's
+       value-added test).
+     - division managers :: several made the individual choice to cut
+       value-added activities rather than genuine waste, despite other
+       managers proving a legitimate path was available under the same
+       system -- highest degree of individual accountability.
+     - management accountants :: lesser accountability than division
+       managers -- had a professional duty under the IMA Statement to
+       push back or escalate, but acted under direct pressure from the
+       people they report to (mitigating, not excusing).
+3) two financial + two nonfinancial measures
+   + design principle :: a measure only changes managerial behavior if
+     it's built into the bonus/evaluation formula, not just reported
+     alongside it on a dashboard.
+   + financial measure 1 :: multi-year rolling ROI (e.g., 3-year
+     average) instead of single-year ROI -- pulling revenue forward
+     into the current year no longer pays off as cleanly, since the
+     next period's rolling average absorbs the shortfall; rewards
+     sustained performance instead of a one-year spike.
+   + financial measure 2 :: operating cash flow vs. net income (cash
+     conversion ratio) -- revenue recognized before cash is actually
+     collected shows up as a widening gap between reported income and
+     cash flow, flagging earnings management without needing to
+     identify which specific transaction was accelerated.
+   + nonfinancial measure 1 :: equipment maintenance completion rate
+     (leading indicator) -- directly counters postponed maintenance;
+     catches the problem the moment a manager starts deferring, before
+     equipment fails or a customer notices.
+   + nonfinancial measure 2 :: customer complaint rate (lagging
+     indicator) -- confirms whether quality actually held up; scenario
+     explicitly states complaints increased, so this is evidenced, not
+     invented.
+   + why the pairing works :: leading + lagging together give the
+     board early warning (maintenance) plus outcome confirmation
+     (complaints) -- same logic on the financial side (single-year ROI
+     = the gameable short-term signal; multi-year ROI + cash
+     conversion = the check against gaming it).
+4) Managerial autonomy vs organizational control
+   + rule :: managers retain discretion over operational means, EXCEPT
+     when an action either (a) cuts a value-added activity, or (b)
+     touches financial reporting/accounting judgment calls under
+     pressure -- either should trigger board or senior leadership
+     intervention rather than being left to manager discretion.
+   + operationalizing the rule :: the section 3 measures double as the
+     practical tripwires -- e.g., maintenance completion rate dropping
+     below a set threshold, or the cash-conversion ratio (OCF vs. net
+     income) widening beyond a set range, gives the board an objective
+     trigger to intervene rather than relying on case-by-case judgment
+     calls after the fact.
+5) Conclusion: financially successful vs corporate governance failure
+   + thesis :: yes -- the reported ROI/operating income improvement is
+     manufactured, not real economic value creation.
+   + mechanism 1 (revenue side) :: accelerated revenue recognition
+     borrows revenue from a future period to inflate the current
+     period's number.
+   + mechanism 2 (cost side) :: postponed maintenance/training/R&D are
+     deferred costs, not eliminated costs -- they get paid later,
+     often at a higher cost than if handled on schedule (emergency
+     repair vs.  scheduled maintenance, turnover vs. retention, lost
+     competitiveness vs. sustained R&D).
+   + synthesis :: both mechanisms flatter the same single-year ROI
+     window from opposite directions (revenue artificially up, costs
+     artificially down) -- the "financial success" is a timing
+     illusion, not economic substance. Nothing here broke GAAP, which
+     is precisely why compliance isn't sufficient evidence of
+     effective governance (section 2).
+   + tie back to full argument :: this is exactly what the multi-year
+     ROI measure (section 3) and the discretion/intervention rule
+     (section 4) are designed to catch before the illusion compounds
+     across periods -- management accounting's core job is to see past
+     the reported number to economic substance, which this control
+     system failed to do.
