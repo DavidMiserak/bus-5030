@@ -305,3 +305,33 @@ broader business context.).
      across periods -- management accounting's core job is to see past
      the reported number to economic substance, which this control
      system failed to do.
+* Post
+
+I think there were mistakes at all levels.  The first was the board
+who rewarded this years numbers regardless of how it was achieved.
+Senior managers set aggressive departmental budgets with no guardrails
+like check to see if there were cutting value-added investment and
+giving department managers financial incentive tied to their bonuses.
+The annual window, an undifferentiated cut-everything mandate create
+both the opportunity and motive to reach for whatever lever is
+easiest.  This resulted in some managers hitting the targets without
+touching maintenance, training, or R&D.  But others were dysfunctional
+by cutting value-added investments for a bonus.
+
+This scenario shows how being legal per laws and policy does not
+ensure protection of long-term value.  This is why the IMA exists for
+professionals who may feel pressure to manipulate financial results.
+
+A measure can only be expected to change behavior if it is build into
+the bonus/evaluation formula.  A few things could be improved: (1) a
+multi-year rolling ROI to pulling revenue forward into the current
+year no longer pay off as cleanly, (2) pay attention to operating cash
+flow vs net income, (3) track equipment maintenance completion rate,
+(4) track customer complaint rate.
+
+While this can show how /some/ mangers have failed due to pressures of
+organizational control they should maintain autonomy when it comes to
+non-value-added controls as their expertise needs to be relied on.
+
+The reported ROI/operating income improvement is manufactured, it is
+not real economic value creation.
