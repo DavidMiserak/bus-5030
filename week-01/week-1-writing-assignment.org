@@ -85,3 +85,69 @@ energy industry.
 * Due Date
 
 Assignment due: Sunday, August 30th, 2026 at 11:59 PM EST.
+
+* Outline: Risk/Predictability Angle
+
+** Introduction
+
+   + Hook: Oil & gas value chain overview -- exploration to end-consumer
+   + Thesis: The three operational segments have fundamentally different
+     risk and predictability profiles due to their cost structures;
+     understanding these differences is essential for capital allocation,
+     project financing, and strategic profitability management.
+
+** Upstream Costs: High Capital Risk + High Operating Variability
+
+   + Cost 1: Drilling & Well Completion
+     - Capital-intensive, highly variable by geology/depth/location
+     - Ex-post uncertainty: drilling costs per well can swing dramatically
+     - Risk driver: geological surprises, dry holes, unexpected conditions
+     - Strategic implication: high project-level risk requires risk
+       management (hedging, diversification, strict hurdle rates)
+   + Cost 2: Production/Lifting Costs
+     - Operational, recurring, but variable with depletion curve and volume
+     - Predictable in form, unpredictable in magnitude (reservoir performance,
+       decline rates)
+     - Risk driver: reservoir productivity uncertainty, price sensitivity
+     - Link: lifting costs compound the drilling risk -- poor wells cost more
+       to operate
+
+** Midstream Costs: High Capital Investment, Predictable Operations
+
+   + Cost 1: Pipeline Construction
+     - Massive upfront capital (fixed, sunk cost)
+     - But post-construction: throughput contracted, revenue stable
+     - Risk driver: regulatory/environmental delays during construction;
+       once built, utilization risk is low if contracts are in place
+   + Cost 2: Pipeline Maintenance/Integrity
+     - Predictable steady-state operating cost, relatively fixed
+     - Regulatory requirement (not optional)
+     - Risk driver: regulatory changes, rare catastrophic failures (low
+       probability, high impact)
+     - Strategic contrast to upstream: midstream shifts risk FROM operating
+       variability TO capital/regulatory risk
+
+** Downstream Costs: Market-Driven + Periodic Capital
+
+   + Cost 1: Crude Oil Feedstock
+     - Direct material cost, commodity-priced, volatile, market-driven
+     - Unpredictable (tied to global supply/demand, geopolitics)
+     - Risk driver: price volatility, supply disruption
+     - Mitigation strategy: hedging, long-term contracts, blending
+   + Cost 2: Refinery Turnaround Expenses
+     - Periodic planned capital (predictable timing, purpose)
+     - Operational complexity, but known cost range (not like drilling surprises)
+     - Risk driver: operational execution, scope creep (partially controllable)
+     - Strategic contrast: feedstock risk is market risk; turnaround risk is
+       operational/execution risk
+
+** Conclusion
+
+   + Synthesis: upstream = highest risk, most variability; midstream =
+     capital-intensive but operationally stable; downstream = market exposure
+     but operational predictability
+   + Strategic implication: each segment requires different risk management
+     approaches, financing structures, and pricing strategies
+   + Why it matters: capital allocation decisions depend on this risk
+     differentiation; project finance structures differ by segment; margins
+     and volatility expectations differ
