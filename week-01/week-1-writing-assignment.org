@@ -201,3 +201,16 @@ Assignment due: Sunday, August 30th, 2026 at 11:59 PM EST.
        (operational complexity).
      - Tie back to MarketLine (2026) on industry scale and competitive
        dynamics to reinforce strategic importance of cost understanding.
+* Paper
+
+Oil and gas is a large market: "The United States oil & gas market
+grew by 0.1% in 2025 to reach a value of $982,074.4 million"
+(MarketLine, 2026, p. 2). The oil and gas industry operates through
+three distinct operations segments: Upstream, Midstream, and
+Downstream.  Upstream is high-risk and variable with drilling wells
+and production costs.  Midstream requires high capital investment for
+predictable outcomes with regard to pipeline construction and
+maintenance.  Downstream is mostly market driven and predictable with
+crude oil feedstock and refinery turn around expenses. Understanding
+these differences is essential for capital allocation, project
+financing, and strategic risk management.
