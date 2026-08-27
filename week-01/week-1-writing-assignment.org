@@ -82,6 +82,16 @@ these cost structures is important for capital allocation,
 profitability analysis, strategic planning, and risk management in the
 energy industry.
 
+* Reference List (APA 7th Edition)
+
+García-Amate, A., Molero-González, L., Sánchez-Granero, M. A.,
+Trinidad-Segovia, J. E., & García-Medina, A. (2024). Testing the
+significance of pricing factors of oil and gas companies. /PLOS ONE,
+19/(12), e0316147. https://doi.org/10.1371/journal.pone.0316147
+
+MarketLine. (2026). /Oil & gas in the United States/ (Industry Profile
+No. 0072-2116). Author.
+
 * Due Date
 
 Assignment due: Sunday, August 30th, 2026 at 11:59 PM EST.
@@ -95,6 +105,17 @@ Assignment due: Sunday, August 30th, 2026 at 11:59 PM EST.
      risk and predictability profiles due to their cost structures;
      understanding these differences is essential for capital allocation,
      project financing, and strategic profitability management.
+   + Quotes & Citations
+     - Market context: "The United States oil & gas market grew by 0.1%
+       in 2025 to reach a value of $982,074.4 million" (MarketLine, 2026,
+       p. 2).
+     - Petroleum dominance: "Petroleum products is the largest segment of
+       the oil & gas market in the United States, accounting for 88.4% of
+       the market's total value in 2025" (MarketLine, 2026, p. 12).
+     - Subsector importance: "The results highlight a distinct behaviour
+       pattern along the O&G industry activity chain, thereby
+       substantiating the necessity for a separate analysis of each O&G
+       subsector" (García-Amate et al., 2024, p. 3).
 
 ** Upstream Costs: High Capital Risk + High Operating Variability
 
@@ -111,6 +132,13 @@ Assignment due: Sunday, August 30th, 2026 at 11:59 PM EST.
      - Risk driver: reservoir productivity uncertainty, price sensitivity
      - Link: lifting costs compound the drilling risk -- poor wells cost more
        to operate
+   + Quotes & Citations
+     - Oil price dominance (risk): "Brent becomes the only factor explaining
+       the movements in the upstream and midstream subsectors"
+       (García-Amate et al., 2024, Abstract).
+     - R&D/exploration investment: "Market players are investing in research
+       & development (R&D) and technological advancements for developing
+       high-performance, cost-efficient production" (MarketLine, 2026, p. 3).
 
 ** Midstream Costs: High Capital Investment, Predictable Operations
 
@@ -126,6 +154,13 @@ Assignment due: Sunday, August 30th, 2026 at 11:59 PM EST.
        probability, high impact)
      - Strategic contrast to upstream: midstream shifts risk FROM operating
        variability TO capital/regulatory risk
+   + Quotes & Citations
+     - Oil price dominance (same as upstream): "Brent becomes the only
+       factor explaining the movements in the upstream and midstream
+       subsectors" (García-Amate et al., 2024, Abstract).
+     - Note: midstream shares upstream's commodity price exposure despite
+       different operational structure; this supports the capital-intensity
+       thesis.
 
 ** Downstream Costs: Market-Driven + Periodic Capital
 
@@ -140,6 +175,14 @@ Assignment due: Sunday, August 30th, 2026 at 11:59 PM EST.
      - Risk driver: operational execution, scope creep (partially controllable)
      - Strategic contrast: feedstock risk is market risk; turnaround risk is
        operational/execution risk
+   + Quotes & Citations
+     - Downstream risk differs from upstream/midstream: "for most of the
+       time the only factor in the downstream subsector is the market"
+       (García-Amate et al., 2024, Abstract).
+     - Interpretation: Unlike upstream/midstream (which are dominated by
+       oil price), downstream has diverse risk factors, supporting the
+       thesis that cost structures and risk profiles differ fundamentally
+       across segments.
 
 ** Conclusion
 
@@ -151,3 +194,10 @@ Assignment due: Sunday, August 30th, 2026 at 11:59 PM EST.
    + Why it matters: capital allocation decisions depend on this risk
      differentiation; project finance structures differ by segment; margins
      and volatility expectations differ
+   + Quotes & Citations
+     - García-Amate et al. (2024) provides empirical support that the three
+       subsectors have distinct risk profiles: upstream/midstream dominated
+       by oil price (external risk), downstream by multiple market factors
+       (operational complexity).
+     - Tie back to MarketLine (2026) on industry scale and competitive
+       dynamics to reinforce strategic importance of cost understanding.
