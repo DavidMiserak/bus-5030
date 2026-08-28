@@ -211,7 +211,7 @@ Downstream.  Upstream is high-risk and variable with drilling wells
 and production costs.  Midstream requires high capital investment for
 predictable outcomes with regard to pipeline construction and
 maintenance.  Downstream is mostly market driven and predictable with
-crude oil feedstock and refinery turn around expenses. Understanding
+crude oil feedstock and refinery turnaround expenses. Understanding
 these differences is essential for capital allocation, project
 financing, and strategic risk management.
 
@@ -257,6 +257,17 @@ García-Amate et al. (2024) found that for most of the time the only
 factor in the downstream subsector is the market -- indicating
 downstream's risk profile differs significantly from
 upstream/midstream's commodity price dominance.
+
+In conclusion judging oil wells that are in production as the only
+ones that were invested in seems like a practice of survivorship bias:
+The upstream costs are highly variable and risky.  The midstream can
+be just as capital intensive but operationally stable.  The downstream
+continues to be dictated by market exposure but is operationally
+predictable.  Each segment requires different risk management
+approaches, financing structures, and pricing strategies.
+Understanding these distinct cost structures and risk profiles is
+essential for capital allocation decisions, project financing
+strategies, and long-term value creation in the energy industry.
 
 ** References
 
