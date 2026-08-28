@@ -244,6 +244,20 @@ upstream, midstream companies remain exposed to Brent crude oil price
 movements (García-Amate et al., 2024), meaning operational stability
 does not insulate them from external financial risk.
 
+Unlike upstream/midstream (which are dominated by oil price),
+downstream has diverse risk factors: Feedstock and refinery turnaround
+expenses.  Feedstock supply is unpredictable as it is subject to
+global supply/demand which can even be influenced by geopolitics.
+This is mitigated via long-term contracts and blending.  Refinery
+turnaround has periodic planned capital investment (e.g., maintenance
+shutdowns every 3-5 years), predictable timing and purpose, but
+operational complexity remains (scope creep, execution risk).  This is
+fundamentally different from drilling's geological uncertainty.
+García-Amate et al. (2024) found that for most of the time the only
+factor in the downstream subsector is the market -- indicating
+downstream's risk profile differs significantly from
+upstream/midstream's commodity price dominance.
+
 ** References
 
 García-Amate, A., Molero-González, L., Sánchez-Granero, M. A.,
