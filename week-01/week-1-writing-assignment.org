@@ -231,6 +231,19 @@ performance is dominated by a single external factor: "Brent becomes
 the only factor explaining the movements in the upstream and midstream
 subsectors" (García-Amate et al., 2024, Abstract).
 
+The midstream expense remains high but operations become predictable
+with regard to Pipeline construction, maintenance, and integrity.
+Compared to upstream operating variability the risk is shifted to the
+capital and regulatory risk for the midstream.  Pipeline construction
+is capital intensive upfront but contracts lock in throughput and
+revenue.  Pipeline maintenance is predictable if they can adhere to
+regulatory requirements.  If that hurdle is cleared utilization risk
+is low if contracts are in place.  The risk of failure of a pipeline
+is low but if it does happen it can have a high impact.  Yet like
+upstream, midstream companies remain exposed to Brent crude oil price
+movements (García-Amate et al., 2024), meaning operational stability
+does not insulate them from external financial risk.
+
 ** References
 
 García-Amate, A., Molero-González, L., Sánchez-Granero, M. A.,
