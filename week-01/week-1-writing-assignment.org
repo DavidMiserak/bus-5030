@@ -214,3 +214,29 @@ maintenance.  Downstream is mostly market driven and predictable with
 crude oil feedstock and refinery turn around expenses. Understanding
 these differences is essential for capital allocation, project
 financing, and strategic risk management.
+
+The upstream expense of drilling & well completion followed by
+production and lifting costs can be both high-risk and capital
+intensive.  Costs on drilling are highly variable and uncertain on a
+per well basis with geological surprises, dry holes, and unexpected
+conditions.  This is controlled with risk management of hedging,
+diversification, and strict hurdle rates.  Once the well is completed
+production and lifting costs are predictable but that magnitude can be
+uncertain.  This can lead to poor wells costing more to operate.  This
+high-risk environment drives companies to invest more heavily in R&D:
+"Market players are investing in research & development (R&D) and
+technological advancements for developing high-performance,
+cost-efficient production" (MarketLine, 2026, p. 3).  Upstream company
+performance is dominated by a single external factor: "Brent becomes
+the only factor explaining the movements in the upstream and midstream
+subsectors" (García-Amate et al., 2024, Abstract).
+
+** References
+
+García-Amate, A., Molero-González, L., Sánchez-Granero, M. A.,
+Trinidad-Segovia, J. E., & García-Medina, A. (2024). Testing the
+significance of pricing factors of oil and gas companies. /PLOS ONE,
+19/(12), e0316147. https://doi.org/10.1371/journal.pone.0316147
+
+MarketLine. (2026). /Oil & gas in the United States/ (Industry Profile
+No. 0072-2116). Author.
