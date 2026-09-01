@@ -1,0 +1,130 @@
+#+TITLE: Week 2 Discussion
+
+* Week 2 Discussion Assignment
+
+** Discussion Overview: Operating Leverage and Managerial Decision-Making
+
+/Operating leverage/ reflects the extent to which an organization
+relies on /fixed operating costs relative to variable
+costs/. Organizations with high operating leverage may experience
+substantial increases in operating income when sales rise; however,
+they may also experience significant declines in profitability when
+sales fall. Understanding operating leverage is therefore important
+for forecasting, risk assessment, pricing, capacity planning, and
+strategic decision-making.
+
+Assume you are a financial analyst advising a company that is
+considering investing in automation. The proposed investment would
+reduce variable labor costs but substantially increase fixed costs
+through equipment depreciation, maintenance contracts, and technology
+expenses. Management expects the investment to improve profitability
+if sales continue to grow but is concerned about the financial
+consequences of an economic downturn.
+
+** Purpose: To Explain, Calculate, Analyze, Evaluate, Develop & Defend
+
+By the end of this discussion, you will be able to:
+
++ /Explain/ the relationship among fixed costs, variable costs,
+  contribution margin, operating income, and operating leverage in
+  organizational decision-making.
++ /Calculate/ and interpret contribution margin, operating income, and
+  the degree of operating leverage (DOL) using relevant financial and
+  operating data.
++ /Analyze/ how changes in sales volume affect operating income and
+  financial performance in organizations with different levels of
+  operating leverage.
++ /Evaluate/ the potential benefits and risks associated with
+  increasing operating leverage through strategic investments such as
+  automation, technology, or other fixed-cost commitments.
++ /Develop/ and defend an evidence-based managerial recommendation
+  regarding operating leverage by integrating quantitative analysis
+  with factors such as break-even risk, economic uncertainty, capacity
+  utilization, expected sales growth, and organizational risk
+  tolerance.
+
+** Discussion Prompt:
+
+Choose from 1 or 2 for your initial post and make your
+recommendation. Then reply to one peer to add value to the discussion
+
+1. Operating Leverage and Profitability
+
++ Explain the relationship among fixed costs, variable costs,
+  contribution margin, and operating leverage.
++ How would the proposed automation investment affect the company's
+  degree of operating leverage (DOL)?
++ Discuss why higher operating leverage can increase profitability
+  during periods of sales growth while simultaneously increasing
+  operating risk when sales decline.
+
+2. Scenario and Sensitivity Analysis
+
+Assume the company currently generates $10 million in annual sales,
+has variable costs equal to 60% of sales, and incurs $2.5 million in
+annual fixed operating costs.
+
++ Calculate the company's contribution margin, operating income, and
+  degree of operating leverage.
++ Then evaluate the potential effect on operating income if sales
+  increase or decrease by 10%.
++ What does your analysis reveal about the company's sensitivity to
+  changes in sales volume?
+
+3. Managerial Recommendation
+
+As a financial advisor to senior management, would you recommend
+increasing the company's operating leverage through the proposed
+automation investment?  Explain your recommendation by considering
+expected sales growth, break-even risk, economic uncertainty, capacity
+utilization, and the organization's ability to absorb fluctuations in
+operating income.
+
+Support your recommendation with quantitative and qualitative
+evidence. Discuss at least one additional financial or nonfinancial
+factor management should consider before making the investment
+decision.
+
+** Criteria: High-level Submissions
+
+A high-quality graduate-level discussion post should demonstrate
+critical thinking, analytical depth, professional writing, and
+meaningful engagement with course concepts. The goal is not merely to
+summarize information, and or agree with a peer, but to contribute
+original insight, apply theory to practice, and stimulate scholarly
+discussion.Define what a complete, high-quality submission looks like
+for both the initial post and peer responses.
+
+*** Initial Post (200-300) words
+
++ Directly answer the prompt (e.g. respond specifically, address
+  underlying business/accounting implications, avoid vague or overly
+  general commentary.).
++ Demonstrate critical thinking (e.g., compare competing perspectives,
+  analyze implications and tradeoffs, discuss limitations, risk, and
+  ethical considerations.).
++ Integrate Course Concepts and Professional Practice (e.g., reference
+  accounting analytics, governance, or strategy, apply theory to
+  business environments.).
++ Use evidence and scholarly support (e.g., incorporate industry
+  examples, reference course readings and research/professional
+  standards, use data, citations, or authoritative frameworks.).
+
+*** Peer Responses (150-200) words
+
++ Substantively Engages with a Classmate’s Ideas (e.g., engage in the
+  discussion meaningfully. identify key strengths or assumptions,
+  reference specific arguments.).
++ Demonstrate critical thinking (e.g., challenge assumptions
+  respectfully, apply additional course concepts.).
++ Add new value to the discussion (e.g., expand the analytical scope,
+  connect ideas to professional experiences, reference industry
+  practices.).
++ Encourage Continued Dialogue (e.g., Invite deeper analysis, ask
+  probing questions, encourage application to broader business
+  context.).
+
+** Due Dates
+
++ Initial post due: Thursday at 11:59 PM EST.
++ Peer responses (1) due: Sunday at 11:59 PM EST.
