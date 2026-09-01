@@ -1,0 +1,51 @@
+#+TITLE: Chapter 2 Notes
+
+* Check Yourself 2.1
+
+Is the compensation cost for managers of an Apple store a fixed cost or a variable cost?
+
+A: A salary for a single manager in the context of a single store is a fixed cost.
+
+* Check Yourself 2.2
+
+Suppose that you are sponsoring a concert featuring a local band. You
+estimate that approximately 2,000 people will buy tickets to attend
+the concert. The tickets are expected to be priced at $12 each. Would
+you prefer a contract that agrees to pay the band $10,000 or one that
+agrees to pay $5 per ticket purchased?
+
+|---+-------------------------------+--------+-------+--------+-------+--------|
+|   | No. Tickets                   |   1800 | -0.10 |   2000 | +0.10 |   2200 |
+| # | Sales Revenue ($5 per ticket) |  21600 |       |  24000 |       |  26400 |
+|   | Cost of Band (fixed)          | -10000 |       | -10000 |       | -10000 |
+| # | Gross Margin                  |  11600 |       |  14000 |       |  16400 |
+|---+-------------------------------+--------+-------+--------+-------+--------|
+#+TBLFM: @2$3=(@-1*12)::@2$5=(@-1*12)::@2$7=(@-1*12)::@4$3=@-2+@-1::@4$5=@-2+@-1::@4$7=@-2+@-1
+
+|---+----------------------------------+-------+-------+--------+-------+--------|
+|   | No. Tickets                      |  1800 | -0.10 |   2000 | +0.10 |   2200 |
+| # | Sales Revenue ($5 per ticket)    | 21600 |       |  24000 |       |  26400 |
+|   | Cost of Band ($5 per ticket sold | -9000 |       | -10000 |       | -11000 |
+| # | Gross Margin                     | 12600 |       |  14000 |       |  15400 |
+|---+----------------------------------+-------+-------+--------+-------+--------|
+#+TBLFM: @3$3=@-2*-5::@3$5=@-2*-5::@3$7=@-2*-5::@2$3=(@-1*12)::@2$5=(@-1*12)::@2$7=(@-1*12)::@4$3=@-2+@-1::@4$5=@-2+@-1::@4$7=@-2+@-1
+
+I would be risk adverse and have variable costs.
+
+* Check yourself 2.3
+
+If both Kroger Food Stores and Delta Airlines were to experience a 5
+percent increase in revenues, which company would be more likely to
+experience a higher percentage increase in net income?
+
+Delta as they have fixed costs vs. Kroger who has many variable costs.
+
+* Check Yourself 2.4
+
+Boeing Company’s 10-K annual report filed with the Securities and
+Exchange Commission refers to "operating margins in our Commercial
+Airplanes business." Is Boeing referring to gross margins or
+contribution margins?
+
+As this a public reporting it must use GAAP.  Therefor it is gross
+margins they are referring to.
