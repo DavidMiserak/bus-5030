@@ -128,3 +128,98 @@ for both the initial post and peer responses.
 
 + Initial post due: Thursday at 11:59 PM EST.
 + Peer responses (1) due: Sunday at 11:59 PM EST.
+* Week 2 Initial Post
+
+** Scenario and Sensitivity Analysis
+
+*** High Variable Cost
+
+|---+---------------------+-------------+-------+-------------+-------+-------------|
+|   | Annual Sales        |  9000000.00 | -0.10 | 10000000.00 | +0.10 | 11000000.00 |
+| # | Variable Costs      | -5400000.00 |       | -6000000.00 |       | -6600000.00 |
+| # | Contribution Margin |  3600000.00 |       |  4000000.00 |       |  4400000.00 |
+|---+---------------------+-------------+-------+-------------+-------+-------------|
+|   | Fixed Cost          | -2500000.00 |       | -2500000.00 |       | -2500000.00 |
+|---+---------------------+-------------+-------+-------------+-------+-------------|
+| # | Net Income          |  1100000.00 |       |  1500000.00 |       |  1900000.00 |
+|---+---------------------+-------------+-------+-------------+-------+-------------|
+| # | Operating Leverage  |        3.27 |       |        2.67 |       |        2.32 |
+|---+---------------------+-------------+-------+-------------+-------+-------------|
+#+TBLFM: @2$3=@-1*-0.6;%0.2f::@2$5=@-1*-0.6;%0.2f::@2$7=@-1*-0.6;%0.2f
+#+TBLFM: @3$3=@-2+@-1;%0.2f::@3$5=@-2+@-1;%0.2f::@3$7=@-2+@-1;%0.2f
+#+TBLFM: @5$3=@-2+@-1;%0.2f::@5$5=@-2+@-1;%0.2f::@5$7=@-2+@-1;%0.2f
+#+TBLFM: @6$3=@3/@-1;%0.2f::@6$5=@3/@-1;%0.2f::@6$7=@3/@-1;%0.2f
+
+*** Low Variable Cost
+
+|---+---------------------+-------------+-------+-------------+-------+-------------|
+|   | Annual Sales        |  9000000.00 | -0.10 | 10000000.00 | +0.10 | 11000000.00 |
+| # | Variable Costs      | -2700000.00 |       | -3000000.00 |       | -3300000.00 |
+| # | Contribution Margin |  6300000.00 |       |  7000000.00 |       |  7700000.00 |
+|---+---------------------+-------------+-------+-------------+-------+-------------|
+|   | Fixed Cost          | -5500000.00 |       | -5500000.00 |       | -5500000.00 |
+|---+---------------------+-------------+-------+-------------+-------+-------------|
+| # | Net Income          |   800000.00 |       |  1500000.00 |       |  2200000.00 |
+|---+---------------------+-------------+-------+-------------+-------+-------------|
+| # | Operating Leverage  |        7.88 |       |        4.67 |       |        3.50 |
+|---+---------------------+-------------+-------+-------------+-------+-------------|
+#+TBLFM: @2$3=@-1*-0.3;%0.2f::@2$5=@-1*-0.3;%0.2f::@2$7=@-1*-0.3;%0.2f
+#+TBLFM: @3$3=@-2+@-1;%0.2f::@3$5=@-2+@-1;%0.2f::@3$7=@-2+@-1;%0.2f
+#+TBLFM: @5$3=@-2+@-1;%0.2f::@5$5=@-2+@-1;%0.2f::@5$7=@-2+@-1;%0.2f
+#+TBLFM: @6$3=@3/@-1;%0.2f::@6$5=@3/@-1;%0.2f::@6$7=@3/@-1;%0.2f
+
+*** Insights
+
+High operating leverage occurs when a company has proportionally more
+fixed costs than variable costs. This structure amplifies the effect
+of sales changes on operating income because the contribution margin
+per unit is higher—each additional unit sold contributes more to
+covering fixed costs and generating profit. In the automation
+scenario, replacing variable labor costs with fixed equipment costs
+increases the contribution margin ratio from 40% to 70%, dramatically
+raising the DOL from 2.67 to 4.67 at current sales levels.
+
+However, this leverage is a double-edged sword. During sales growth,
+the company captures more profit from each incremental dollar of
+revenue. But in a downturn, fixed costs remain constant, causing
+operating income to decline faster than sales.  This explains why the
+10% sales decrease reduces net income by $300,000 in the
+low-variable-cost scenario -- a steeper decline than under the current
+cost structure.
+
+** Managerial Recommendation
+
+Based on the analysis, I would recommend a cautious approach—pursue
+automation incrementally rather than fully committing to the $3
+million fixed cost increase. While the DOL improves from 2.67 to 4.67,
+suggesting significant upside potential, several critical factors
+warrant prudence:
+
+Expected Sales Growth: The break-even point shifts from $6.25 million
+($2.5M / 0.40) to $7.86 million ($5.5M / 0.70). The company would need
+to maintain at least 78.6% of current sales just to break even—a
+threshold that becomes precarious during economic uncertainty.
+
+Economic Uncertainty: Current recessionary indicators increase the
+probability of sales declines. The 10% downside scenario reveals
+operating income would drop to $800,000, a 47% decrease from the
+baseline (compared to only 27% under the current structure). This
+volatility may exceed the organization's risk tolerance.
+
+Additional Factors: Management should consider:
+
+1. Workforce transition costs and potential labor relations impacts
+2. Operational flexibility—can the automated system adjust to product
+   mix changes?
+3. Strategic alignment—does this investment support long-term
+   competitive positioning?
+
+I recommend a phased implementation approach that gradually increases
+automation while monitoring sales trends, allowing the company to
+capture efficiency gains without overcommitting to fixed costs
+prematurely.
+
+** References
+
+- Edmonds, C. T., Edmonds, M. A., & Edmonds, J. E. (2025). Fundamental
+  managerial accounting concepts. McGraw Hill.
