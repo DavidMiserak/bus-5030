@@ -1,0 +1,134 @@
+#+TITLE: Chapter 3 Notes
+
+* Learning Objectives
+
+After you have mastered the material in this chapter, you will be able to:
+
+1) LO 3-1 :: Determine the sales volume necessary to break even or to earn a desired profit.
+2) LO 3-2 :: Explain how a change in sales price, sales volume, variable cost, or fixed cost affects profitability.
+3) LO 3-3 :: Draw and interpret a cost-volume-profit graph.
+4) LO 3-4 :: Calculate and interpret the margin of safety measure.
+5) LO 3-5 :: Conduct sensitivity analysis using spreadsheet software and the equation method.
+6) LO 3-6 :: Perform multiproduct cost-volume-profit analysis.
+
+* Equation Method
+
+The /equation method/ begins by expressing the income statement as follows: $$ Sales - VariableCosts - Fixed Costs = Profit $$
+
+Example:
+
+- $$ Sales - VariableCosts - Fixed Costs = Profit $$
+- $$ 36N - 24N - 60000 = 0 $$
+- $$ 12N - 60000 = 0 $$
+- $$ N = \frac{60000}{12} $$
+- $$ N = 5000 $$
+
+* Check Yourself 3.1
+
+B-Shoc is an independent musician who is considering whether to
+independently produce and sell a new album. B-Shoc estimates fixed
+costs of $5,400 and variable costs of $2 per unit. The expected
+selling price is $8 per album. Use the equation method to determine
+B-Shoc's break-even point.
+
+Answer:
+
+- $$ Sales - VariableCosts - Fixed Costs = Profit $$
+- $$ 8N - 2N - 5400 = 0 $$
+- $$ 6N - 5400 = 0 $$
+- $$ N = \frac{5400}{6} $$
+- $$ N = 900 $$
+
+* Contribution Margin Per-Unit Method
+
+- Contribution Margin Per-Unit :: $$ SalesPricePerUnit - VariableCostPerUnit $$
+
+Formula:
+
+$$ BreakEvenPointInUnits = \frac{FixedCosts}{ContributionMarginPerUnit} $$
+
+* Contribution Margin Ratio Method
+
+Formulas:
+
+$$ ContributionMarginRatio = \frac{ContributionMargin}{Sales} $$
+
+$$ BreakEvenPointInDollars = \frac{FixedCosts}{ContributionMarginRatio} $$
+
+* Check Yourself 3.2
+
+VolTech Company manufactures small engines that it sells for $130
+each. Variable costs are $70 per unit. Fixed costs are expected to be
+$100,000. The management team has established a target profit of
+$188,000. Use the contribution margin per-unit method to determine how
+many engines VolTech must sell to attain the target profit. Use the
+contribution margin ratio method to determine the amount of sales
+volume in dollars required to attain the desired profit.
+
+|------------------+--------|
+| Sales Price/unit |    130 |
+| VC/unit          |     70 |
+| Fixed Costs      | 100000 |
+| Target Profit    | 188000 |
+|------------------+--------|
+
+** Contribution margin per-unit approach
+
+- $$ BreakEvenPointInUnits = \frac{FixedCosts + DesiredProfit}{ContributionMarginPerUnit} $$
+- $$ BreakEvenPointInUnits = \frac{100000 + 188000}{130 - 70} $$
+- $$ BreakEvenPointInUnits = \frac{288000}{60} $$
+- $$ BreakEvenPointInUnits = 4800 $$
+
+
+** Contribution margin ratio approach
+*** CMR
+
+- $$ ContributionMarginRatio = \frac{ContributionMargin}{Sales} $$
+- $$ ContributionMarginRatio = \frac{130 - 70}{130} $$
+- $$ ContributionMarginRatio = \frac{60}{130} $$
+- $$ ContributionMarginRatio = 0.4615384615 $$
+
+*** Break Even Point in Dollars
+
+- $$ BreakEvenPointInDollars = \frac{FixedCosts + DesiredProfit}{ContributionMarginRatio} $$
+- $$ BreakEvenPointInDollars = \frac{100000 + 188000}{0.4615384615} $$
+- $$ BreakEvenPointInDollars = \frac{288000}{0.4615384615} $$
+- $$ BreakEvenPointInDollars = 624000 $$
+
+** Proof that the two approaches produce the same result
+
+- $$ SalesPrice * Units = SalesInDollars $$
+- $$ 130 * 4800 = 624000 $$
+
+* Margin of Safety
+
+$$ MarginOfSafety = \frac{BudgetedSales - BreakEvenSales}{BudgetedSales} $$
+
+* Check Yourself 3.3
+
+Suppose that Bright Day is considering the possibility of selling a
+protein supplement that will cost the company $5 per bottle. Bright
+Day believes that it can sell 4,000 bottles of the supplement for $25
+per bottle. Fixed costs associated with selling the supplement are
+expected to be $42,000. Does the supplement have a wider margin of
+safety than Delatine?
+
+|---------------+-------|
+| Cost per Unit |     5 |
+| Sales Price   |    25 |
+| Unit Sales    |  4000 |
+| Fixed Costs   | 42000 |
+|---------------+-------|
+
+** Break-even volume in units
+
+- $$ BreakEvenPointInUnits = \frac{FixedCosts}{ContributionMarginPerUnit} $$
+- $$ BreakEvenPointInUnits = \frac{42000}{25 - 5} $$
+- $$ BreakEvenPointInUnits = \frac{42000}{20} $$
+- $$ BreakEvenPointInUnits = 2100 $$
+
+** Marin of Safety
+- $$ MarginOfSafety = \frac{BudgetedSales - BreakEvenSales}{BudgetedSales} $$
+- $$ MarginOfSafety = \frac{4000 - 2100}{4000} $$
+- $$ MarginOfSafety = \frac{1900}{4000} $$
+- $$ MarginOfSafety = 47.5\% $$
