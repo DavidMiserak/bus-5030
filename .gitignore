@@ -50,6 +50,7 @@ temp/
 *.temp
 *~
 *.orig
+*.html
 
 # SonarQube Scanner files
 .scannerwork/
