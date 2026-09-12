@@ -1,0 +1,42 @@
+#+TITLE: Week 3 Discussion Post
+
+* Week 3 Discussion Post
+
+Cost-plus pricing should remain only as a floor for predictable
+compliance work; the firm should hold its $100,000 fee and move to
+hybrid value-based pricing. Lowering to $92,000 would erode margin and
+weaken premium positioning, especially when client benefit exceeds
+$250,000.
+
+The cost base should include engagement-specific direct costs such as
+advisory labor, data feeds, project software, and analytics platforms,
+plus allocated indirect costs such as cybersecurity, compliance,
+technology infrastructure, and administrative support. Costs belong in
+the base when they are traceable to the engagement, causally linked to
+delivery, or material enough to affect pricing. A standardized 25%
+markup is simple and ensures cost recovery, but it cross-subsidizes
+complex, high-risk engagements, ignores willingness to pay, rewards
+billable hours, reduces utilization efficiency, and discourages
+innovation.
+
+Cost-plus undercaptures specialized expertise, intellectual capital,
+technology, and assumed risk. Competitors' $92,000 price creates
+pressure, but clients receiving over $250,000 in benefit are less
+price-sensitive; regulation and transparency requirements favor
+documented outcomes over discounts. Value-based or hybrid pricing fits
+customized, high-benefit advisory; fixed fees suit well-defined
+compliance projects; subscriptions fit recurring monitoring. A hybrid
+model combining a cost floor and a value premium can protect margin
+and fund digital transformation while improving client alignment.
+
+Management should monitor gross margin by engagement, price
+realization, utilization, cost-to-serve, win rate, retention/churn,
+and client ROI/satisfaction. Cost-plus remains appropriate only for
+predictable, low-differentiation work; otherwise, value-based or
+hybrid pricing better aligns firm and client value.
+
+** References
+
+- Edmonds, C. T., Edmonds, M. A., & Edmonds,
+  J. E. (2025). /Fundamental managerial accounting concepts/. McGraw
+  Hill.
