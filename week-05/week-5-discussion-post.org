@@ -1,0 +1,44 @@
+#+TITLE: Week 5 Discussion Post
+
+** Initial Post: Management by Exception at Hen of the Wood
+
+The variances requiring immediate attention are food cost (37%
+vs. 30%), employee turnover (24% vs. 10%), customer satisfaction (82%
+vs. 90%), and service time (18 vs. 12 minutes). Sales ($485,000
+vs. $500,000) and labor cost (26% vs. 25%) are comparatively
+minor. Not every unfavorable variance warrants investigation. Managers
+should set thresholds, for example, deviations exceeding 5% or
+$10,000. Food cost is 23% over target, turnover is 140% over target,
+satisfaction is 8 points below target, and service time is 50% over
+target. All are clearly significant.
+
+The Downtown manager is not applying management by exception
+effectively. Spending time on minor scheduling and routine purchases
+prevents focus on the root cause: employee turnover. Three experienced
+employees resigned, creating a cascade of problems. Inexperienced
+staff likely waste food, work slower, and deliver poorer
+service. These problems raise food cost, lengthen service time, and
+lower customer satisfaction. Food cost, service time, and satisfaction
+are symptoms; turnover is the root cause.
+
+One advantage of MBE is that it frees senior managers for strategic
+issues (Merchant, 1985). Two risks are that managers may overlook
+gradual negative trends and that employees may hide problems to avoid
+scrutiny (Merchant, 1985). Relying solely on financial thresholds can
+also miss qualitative issues like morale (Kaplan & Norton, 2001).
+
+Recommendations: (1) Implement a retention program with exit
+interviews, competitive pay, and training, targeting turnover below
+15% next quarter. (2) Delegate routine approvals to shift supervisors
+and set variance thresholds. Investigate any deviation exceeding 5% or
+$10,000, while tracking service time and satisfaction weekly.
+
+*** References
+
+Kaplan, R. S., & Norton, D. P. (2001). Transforming the balanced
+scorecard from performance measurement to strategic management: Part
+I. /Accounting Horizons, 15/ (1), 87–104.
+
+Merchant, K. A. (1985). Budgeting and the propensity to create
+budgetary slack. /Accounting, Organizations and Society, 10/ (2),
+201–210.
