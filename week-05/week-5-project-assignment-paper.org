@@ -1,0 +1,356 @@
+#+TITLE: Flexible & Static Budget Analysis
+#+AUTHOR: David Miserak
+#+DATE: September 20th, 2026
+
+* Executive Summary
+
+Orion Manufacturing sold 12,000 units, 2,000 more than the 10,000
+units in its static budget. That volume growth produced a favorable
+sales activity variance of *$64,000* in operating income. However,
+actual operating income was only *$115,600*, compared with *$125,000*
+in the static budget and *$189,000* in the flexible budget at 12,000
+units.  Orion therefore missed the flexible-budget target by *$73,400
+unfavorable*. The largest problems were an unfavorable sales price
+variance of *$24,000*, unfavorable variable-cost flexible-budget
+variances totaling *$44,400*, and an unfavorable fixed manufacturing
+overhead variance of *$8,000*, partly offset by a favorable fixed
+selling and administrative variance of *$3,000*.
+
+The quarter should not be considered fully successful. Sales growth is
+a genuine strength, but the static-budget-only comparison used by the
+CEO is misleading because it does not adjust variable costs for the
+20% increase in volume. At the same time, the production manager
+cannot explain away all unfavorable results: per-unit direct
+materials, direct labor, variable manufacturing overhead, and variable
+selling expenses all exceeded budget. Orion needs flexible-budget
+reporting, deeper variance investigation, stronger cost
+accountability, and nonfinancial performance measures to protect
+long-term strategy.
+
+* Introduction
+
+Orion Manufacturing produces a specialized commercial air-filtration
+unit. Management prepared a static budget for 10,000 units, but actual
+production and sales reached 12,000 units. The CEO concluded that
+costs were poorly controlled because most actual expenses exceeded the
+static budget. The production manager argued that the comparison is
+unfair because activity was 20% higher than planned. This report
+evaluates both positions using static and flexible budget analysis. It
+separates activity-driven variances from operating-performance
+variances, assesses managerial responsibility, and recommends actions
+for cost control and future performance evaluation.
+
+Although the framing question posits a scenario in which operating
+income exceeded the static-budget target but fell below the
+flexible-budget target, Orion's actual results show operating income
+below both targets. This makes the performance concern even stronger
+and reinforces the need to distinguish volume effects from
+controllable operating performance.
+
+* Static and Flexible Budget Concepts
+
+A static budget is prepared for one planned activity level and is
+useful for initial planning, resource allocation, and setting baseline
+targets (Hansen & Van der Stede, 2004). It does not change when actual
+volume differs from plan. A flexible budget, by contrast, adjusts
+revenues and variable costs to the actual activity level. It is
+therefore more useful for control and performance evaluation because
+it compares actual results with what costs and revenues should have
+been at the actual volume achieved (Libby & Lindsay, 2010).
+
+The difference between the static and flexible budgets is the *sales
+activity variance*. The difference between actual results and the
+flexible budget is the *flexible-budget variance*, which reflects
+price, spending, and efficiency performance. Together, the sales
+activity variance and flexible-budget variance explain the total
+static-budget variance. This separation is essential for
+responsibility accounting because managers should generally be
+evaluated on revenues and costs they can influence, not on
+volume-driven changes outside their control (Hansen & Van der Stede,
+2004; Merchant, 1985).
+
+* Budget Calculations and Variance Analysis
+
+** Table 1. Static Budget at 10,000 Units
+
+| Item                                      | Amount    |
+|-------------------------------------------+-----------|
+| Sales revenue                             | $800,000  |
+| Direct materials                          | (240,000) |
+| Direct labor                              | (150,000) |
+| Variable manufacturing overhead           | (60,000)  |
+| Variable selling expenses                 | (30,000)  |
+| Contribution margin                       | $320,000  |
+| Fixed manufacturing overhead              | (120,000) |
+| Fixed selling and administrative expenses | (75,000)  |
+| Net income                                | $125,000  |
+
+** Table 2. Flexible Budget at 12,000 Units
+
+| Item                                      | Amount    |
+|-------------------------------------------+-----------|
+| Sales revenue                             | $960,000  |
+| Direct materials                          | (288,000) |
+| Direct labor                              | (180,000) |
+| Variable manufacturing overhead           | (72,000)  |
+| Variable selling expenses                 | (36,000)  |
+| Contribution margin                       | $384,000  |
+| Fixed manufacturing overhead              | (120,000) |
+| Fixed selling and administrative expenses | (75,000)  |
+| Net income                                | $189,000  |
+
+** Table 3. Actual Results at 12,000 Units
+
+| Item                                      | Amount    |
+|-------------------------------------------+-----------|
+| Sales revenue                             | $936,000  |
+| Direct materials                          | (312,000) |
+| Direct labor                              | (192,000) |
+| Variable manufacturing overhead           | (78,000)  |
+| Variable selling expenses                 | (38,400)  |
+| Contribution margin                       | $315,600  |
+| Fixed manufacturing overhead              | (128,000) |
+| Fixed selling and administrative expenses | (72,000)  |
+| Net income                                | $115,600  |
+
+** Table 4. Variance Summary
+
+| Variance                         | Amount    | F/U |
+|----------------------------------+-----------+-----|
+| *Sales activity variance*        |           |     |
+| Sales revenue                    | $160,000  | F   |
+| Variable costs total             | (96,000)  | U   |
+| Contribution margin              | $64,000   | F   |
+| Operating income                 | $64,000   | F   |
+| *Flexible-budget variances*      |           |     |
+| Sales price / revenue            | $(24,000) | U   |
+| Direct materials                 | (24,000)  | U   |
+| Direct labor                     | (12,000)  | U   |
+| Variable manufacturing overhead  | (6,000)   | U   |
+| Variable selling expenses        | (2,400)   | U   |
+| Fixed manufacturing overhead     | (8,000)   | U   |
+| Fixed selling and administrative | 3,000     | F   |
+| Operating income                 | $(73,400) | U   |
+| *Static-budget variances*        |           |     |
+| Sales revenue                    | $136,000  | F   |
+| Direct materials                 | (72,000)  | U   |
+| Direct labor                     | (42,000)  | U   |
+| Variable manufacturing overhead  | (18,000)  | U   |
+| Variable selling expenses        | (8,400)   | U   |
+| Fixed manufacturing overhead     | (8,000)   | U   |
+| Fixed selling and administrative | 3,000     | F   |
+| Operating income                 | $(9,400)  | U   |
+
+The flexible-budget variances show that Orion's per-unit operating
+performance was weak. Actual direct materials cost $26 per unit versus
+the $24 standard, creating a $24,000 unfavorable variance. Direct
+labor was $16 per unit versus $15, for a $12,000 unfavorable variance.
+Variable manufacturing overhead was $6.50 per unit versus $6, for a
+$6,000 unfavorable variance. Variable selling expense was $3.20 per
+unit versus $3, for a $2,400 unfavorable variance. Sales price was $78
+per unit instead of $80, producing a $24,000 unfavorable revenue
+variance.
+
+* Evaluation of Managerial Performance
+
+The CEO's conclusion is partly correct but incomplete. Comparing
+actual variable costs only with the static budget unfairly penalizes
+managers for volume growth. For example, direct materials were $72,000
+above static budget, but $48,000 of that difference is activity-driven
+and should be expected at 12,000 units. The remaining $24,000 is a
+genuine operating-performance problem. Similarly, direct labor was
+$42,000 above static budget, but $30,000 is activity-driven and
+$12,000 is unfavorable flexible-budget performance.
+
+The production manager is most likely accountable for direct
+materials, direct labor, and variable manufacturing overhead
+flexible-budget variances totaling *$42,000 unfavorable* ($24,000 +
+$12,000 + $6,000).  These variances suggest excessive usage, higher
+prices, inefficiencies, or outdated standards. Variable selling
+expense of $2,400 unfavorable may be shared with sales management. The
+$24,000 unfavorable sales price variance is primarily a sales and
+marketing issue, not a production issue. Fixed manufacturing overhead
+was $8,000 over budget, which may reflect capacity, maintenance,
+overtime, or spending decisions that require further investigation.
+
+Overall, the quarter was not fully successful. The 2,000-unit sales
+increase generated $64,000 of favorable activity-driven operating
+income, but $73,400 of unfavorable flexible-budget performance more
+than offset it, leaving operating income $9,400 below the static
+budget.
+
+* Strategic and Behavioral Considerations
+
+Flexible-budget analysis has important limitations. First, it assumes
+linear cost behavior within the relevant range; at 12,000 units, Orion
+may have exceeded the relevant range, causing step costs or capacity
+constraints. Second, fixed costs are treated as fixed, but actual
+fixed manufacturing overhead was $8,000 higher than budget. Third, the
+analysis ignores quality, customer satisfaction, delivery performance,
+scrap, rework, and employee morale. Higher volume may have been
+achieved by sacrificing quality or by using expedited materials and
+overtime (Kaplan & Norton, 2001). Fourth, standards may be outdated or
+unrealistic. Fifth, aggregate variances do not separate price and
+quantity effects, limiting diagnostic value.
+
+Behaviorally, variance analysis can encourage dysfunctional decisions.
+Managers may cut maintenance, reduce quality checks, or delay spending
+to meet short-term budget targets (Merchant, 1985). Orion should
+therefore use flexible budgets alongside nonfinancial measures and
+strategic performance indicators (Kaplan & Norton, 2001). Budgeting
+research also suggests that organizations benefit when budgets are
+linked to strategy and when managers participate in the budgeting
+process rather than being evaluated only on rigid variance outcomes
+(Libby & Lindsay, 2010).
+
+* Recommendations
+
+1) *Adopt flexible-budget reporting for monthly performance
+   evaluation.* The controller and FP&A team should present actual
+   results against a flexible budget at actual volume, with activity
+   variances separated from flexible-budget variances. This will
+   prevent volume-driven cost increases from being misclassified as
+   poor cost control.
+
+2) *Investigate and correct unfavorable variable-cost variances.* The
+   production manager should lead a review of direct materials, direct
+   labor, and variable manufacturing overhead. Orion should identify
+   whether the $42,000 unfavorable production-related variance comes
+   from price, usage, efficiency, or standards. A measurable target is
+   to return direct materials to $24 per unit, direct labor to $15 per
+   unit, and variable manufacturing overhead to $6 per unit by the
+   next quarter.
+
+3) *Address sales price erosion.* The sales manager should analyze why
+   the average selling price fell from $80 to $78. Possible causes
+   include discounting, competitive pressure, or product mix. The goal
+   should be to restore average selling price to $80 or formally
+   revise the budget if market conditions have changed.
+
+4) *Review fixed manufacturing overhead and capacity.* The plant
+   manager should examine the $8,000 unfavorable fixed manufacturing
+   overhead variance, including overtime, maintenance, and capacity
+   utilization.  Fixed selling and administrative expenses were $3,000
+   favorable, but management should confirm this was not achieved by
+   deferring necessary spending.
+
+5) *Add nonfinancial and strategic performance measures.* Orion should
+   implement a balanced scorecard that includes on-time delivery,
+   defect rates, customer satisfaction, scrap, rework, and safety
+   (Kaplan & Norton, 2001). These measures will help ensure that
+   volume growth does not damage quality or long-term customer
+   relationships.
+
+* Conclusion
+
+Orion's quarter shows both opportunity and weakness. Sales volume
+exceeded plan, and the activity-driven contribution margin variance
+was $64,000 favorable. However, actual operating income fell below
+both the static and flexible budgets. The static-budget-only view is
+misleading, but the flexible budget reveals real operating problems:
+unfavorable sales price, variable costs, and fixed manufacturing
+overhead. The quarter should not be considered fully successful. Orion
+should adopt flexible-budget reporting, investigate cost variances,
+improve pricing discipline, and integrate nonfinancial measures into
+performance evaluation.
+
+* References
+
+Hansen, S. C., & Van der Stede, W. A. (2004). Multiple facets of
+budgeting: An exploratory analysis.  /Management Accounting Research,
+15/ (4), 415--439.
+
+Kaplan, R. S., & Norton, D. P. (2001). Transforming the balanced
+scorecard from performance measurement to strategic management: Part
+I.  /Accounting Horizons, 15/(1), 87--104.
+
+Libby, T., & Lindsay, R. M. (2010). Beyond budgeting or budgeting
+reconsidered? A survey of North-American budgeting
+practice. /Management Accounting Research, 21/(1), 56--75.
+
+
+Merchant, K. A. (1985). Budgeting and the propensity to create
+budgetary slack. /Accounting, Organizations and Society, 10/(2),
+201--210.
+
+* Appendix: Supporting Calculations
+
+|------------------------------------------+---------------+----------------+----------------+-------------|
+|                                          | Static Budget | Total Variance | Actual Results |             |
+|------------------------------------------+---------------+----------------+----------------+-------------|
+| Units produced and sold                  |         10000 |           2000 |          12000 | Favorable   |
+| Selling price per unit                   |            80 |                |                |             |
+|------------------------------------------+---------------+----------------+----------------+-------------|
+| Sales revenue                            |        800000 |         136000 |         936000 | Favorable   |
+|------------------------------------------+---------------+----------------+----------------+-------------|
+| Direct materials per unit                |           -24 |                |                |             |
+| Direct materials                         |       -240000 |         -72000 |        -312000 | Unfavorable |
+|------------------------------------------+---------------+----------------+----------------+-------------|
+| Direct labor per unit                    |           -15 |                |                |             |
+| Direct Labor                             |       -150000 |         -42000 |        -192000 | Unfavorable |
+|------------------------------------------+---------------+----------------+----------------+-------------|
+| Variable manufacturing overhead per unit |            -6 |                |                |             |
+| Variable manufacturing overhead          |        -60000 |         -18000 |         -78000 | Unfavorable |
+|------------------------------------------+---------------+----------------+----------------+-------------|
+| Variable selling expense per unit        |            -3 |                |                |             |
+| Variable selling expenses                |        -30000 |          -8400 |         -38400 | Unfavorable |
+|------------------------------------------+---------------+----------------+----------------+-------------|
+| Contribution Margin                      |        319952 |          -4352 |         315600 | Unfavorable |
+|------------------------------------------+---------------+----------------+----------------+-------------|
+| Fixed manufacturing overhead             |       -120000 |          -8000 |        -128000 | Unfavorable |
+| Fixed selling ad administrative expenses |        -75000 |           3000 |         -72000 | Favorable   |
+|------------------------------------------+---------------+----------------+----------------+-------------|
+| Net Income                               |        124952 |          -9352 |         115600 | Unfavorable |
+|------------------------------------------+---------------+----------------+----------------+-------------|
+#+TBLFM: @4$2=@2*@-1::@6$2=@2*@-1::@8$2=@2*@-1::@10$2=@2*@-1::@12$2=@2*@-1
+#+TBLFM: @13$2=vsum(@4..@-1)::@13$4=vsum(@4..@-1)::@16$2=vsum(@13..@-1)::::@16$4=vsum(@13..@-1)
+#+TBLFM: @2$3=$4-$2::@4$3=$4-$2::@6$3=$4-$2::@8$3=$4-$2::@10$3=$4-$2::@12$3=$4-$2::@13$3=$4-$2::@14$3=$4-$2::@15$3=$4-$2::::@16$3=$4-$2
+
+|------------------------------------------+---------------+----------+-----------------+-------------|
+|                                          | Static Budget | Variance | Flexible Budget |             |
+|------------------------------------------+---------------+----------+-----------------+-------------|
+| Units produced and sold                  |         10000 |     2000 |           12000 | Favorable   |
+| Selling price per unit                   |            80 |          |              80 |             |
+|------------------------------------------+---------------+----------+-----------------+-------------|
+| Sales revenue                            |        800000 |   160000 |          960000 | Favorable   |
+|------------------------------------------+---------------+----------+-----------------+-------------|
+| Direct materials per unit                |           -24 |          |             -24 |             |
+| Direct materials                         |       -240000 |   -48000 |         -288000 | Unfavorable |
+|------------------------------------------+---------------+----------+-----------------+-------------|
+| Direct labor per unit                    |           -15 |          |             -15 |             |
+| Direct Labor                             |       -150000 |   -30000 |         -180000 | Unfavorable |
+|------------------------------------------+---------------+----------+-----------------+-------------|
+| Variable manufacturing overhead per unit |            -6 |          |              -6 |             |
+| Variable manufacturing overhead          |        -60000 |   -12000 |          -72000 | Unfavorable |
+|------------------------------------------+---------------+----------+-----------------+-------------|
+| Variable selling expense per unit        |            -3 |          |              -3 |             |
+| Variable selling expenses                |        -30000 |    -6000 |          -36000 | Unfavorable |
+|------------------------------------------+---------------+----------+-----------------+-------------|
+| Contribution Margin                      |        319952 |    64000 |          383952 | Favorable   |
+|------------------------------------------+---------------+----------+-----------------+-------------|
+| Fixed manufacturing overhead             |       -120000 |        0 |         -120000 | N/A         |
+| Fixed selling ad administrative expenses |        -75000 |        0 |          -75000 | N/A         |
+|------------------------------------------+---------------+----------+-----------------+-------------|
+| Net Income                               |        124952 |    64000 |          188952 | Favorable   |
+|------------------------------------------+---------------+----------+-----------------+-------------|
+#+TBLFM: @4$2=@2*@-1::@6$2=@2*@-1::@8$2=@2*@-1::@10$2=@2*@-1::@12$2=@2*@-1
+#+TBLFM: @4$4=@2*@-1::@6$4=@2*@-1::@8$4=@2*@-1::@10$4=@2*@-1::@12$4=@2*@-1
+#+TBLFM: @13$2=vsum(@4..@-1)::@13$4=vsum(@4..@-1)::@16$2=vsum(@13..@-1)::::@16$4=vsum(@13..@-1)
+#+TBLFM: @2$3=$4-$2::@4$3=$4-$2::@6$3=$4-$2::@8$3=$4-$2::@10$3=$4-$2::@12$3=$4-$2::@13$3=$4-$2::@14$3=$4-$2::@15$3=$4-$2::::@16$3=$4-$2
+
+
++ Static contribution margin: $800,000 − $240,000 − $150,000 − $60,000
+  − $30,000 = *$320,000*
++ Static net income: $320,000 − $120,000 − $75,000 = *$125,000*
++ Flexible contribution margin: $960,000 − $288,000 − $180,000 −
+  $72,000 − $36,000 = *$384,000*
++ Flexible net income: $384,000 − $120,000 − $75,000 = *$189,000*
++ Actual contribution margin: $936,000 − $312,000 − $192,000 − $78,000
+  − $38,400 = *$315,600*
++ Actual net income: $315,600 − $128,000 − $72,000 = *$115,600*
++ Sales activity variance, operating income: $189,000 − $125,000 =
+  *$64,000 F*
++ Flexible-budget variance, operating income: $115,600 − $189,000 =
+  *$73,400 U*
++ Static-budget variance, operating income: $115,600 − $125,000 =
+  *$9,400 U*
